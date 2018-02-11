@@ -3,14 +3,14 @@ layout: page
 title: About
 ---
 
-## Universe 7
-
-is in competition with other universes in the Tournament of Power. The original about it below:
-
-
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
+
+
+## Universe 7
+
+is in competition with other universes in the Tournament of Power. The original about text below:
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 

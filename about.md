@@ -3,6 +3,11 @@ layout: page
 title: About
 ---
 
+## Universe 7
+
+is in competition with other universes in the Tournament of Power. The original about it below:
+
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>

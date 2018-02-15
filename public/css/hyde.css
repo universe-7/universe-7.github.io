@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: ##DBF0F4;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -246,5 +246,14 @@ a.sidebar-nav-item:focus {
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
+  color: #8f5536;
+}
+
+/* Hakai */
+.theme-base-0g .sidebar {
+  background-color: #fff;
+}
+.theme-base-0g .content a,
+.theme-base-0g .related-posts li a:hover {
   color: #8f5536;
 }

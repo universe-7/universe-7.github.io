@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            pdpd
 tagline:          "mental overflow"
-description:      'what i am actually up to'
+description:      'mental overflow'
 url:              https://universe-7.github.io
 baseurl:          /
 

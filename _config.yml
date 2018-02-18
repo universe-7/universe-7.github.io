@@ -10,7 +10,7 @@ title:            pdpd
 tagline:          "mental overflow"
 description:      'mental overflow'
 url:              https://universe-7.github.io
-baseurl:          
+baseurl:          universe-7.github.io
 
 author:
   name:           'Pete Deevakul'

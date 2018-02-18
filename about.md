@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
-<p class="message">
-There are 12 universes total.
-</p>
+```
+is this the same as p class=message?
+```
+
+## pdpd
+
+Technically, I'm a photographer.
 
 ## Why Universe 7?
 

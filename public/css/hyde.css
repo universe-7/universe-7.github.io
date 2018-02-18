@@ -80,12 +80,11 @@ html {
   margin-top: 0;
   font-family: 'Averia Serif Libre', cursive;
   font-size: 0.75rem;
-} 
-
+}
 .sidebar-about p {
   color: #459DC0;
   font-family: 'Averia Serif Libre', cursive;
-  font-size: 0.75rem;
+  font-size: 1.25rem;
 }
 
 /* Sidebar nav */

@@ -79,7 +79,7 @@ html {
   color: #000;
   margin-top: 0;
   font-family: 'Averia Serif Libre', cursive;
-  font-size: 1.4rem;
+  font-size: 0.75rem;
 }
 
 /* Sidebar nav */
@@ -88,7 +88,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {

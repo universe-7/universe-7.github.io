@@ -23,3 +23,6 @@ version:          2.1.0
 
 github:           
   repo:           https://github.com/universe-7/universe-7.github.io
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive'}

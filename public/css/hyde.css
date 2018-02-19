@@ -36,13 +36,13 @@ html {
 @media (min-width: 48em) {
   html {
     font-size: 16px;
-    line-height: 1;
+    line-height: 0.8;
   }
 }
 @media (min-width: 58em) {
   html {
     font-size: 20px;
-    line-height: 1;
+    line-height: 0.8;
   }
 }
 
@@ -81,7 +81,7 @@ html {
   color: #610C13;
   margin-top: 0;
   font-family: 'Averia Serif Libre', cursive;
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 .sidebar-about p {
   color: #459DC0;

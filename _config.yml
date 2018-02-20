@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            pdpd
+title:            hello@pdpd.org
 tagline:          "hakai"
-description:      'pictures, research, trials, and errors'
+description:      'Pictures, Research, Trials, and Errors'
 url:              https://universe-7.github.io
 baseurl:          /universe-7.github.io/
 

@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: 'Crimson Text', serif;}
+  font-family: "Bodoni MT", Didot, "Didot LT STD", serif;}
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -80,12 +80,12 @@ html {
 .sidebar-about h1 {
   color: #610C13;
   margin-top: 0;
-  font-family: 'Averia Serif Libre', cursive;
+  font-family: "Bodoni MT", Didot, "Didot LT STD", serif;
   font-size: 1rem;
 }
 .sidebar-about p {
   color: #459DC0;
-  font-family: 'Averia Serif Libre', cursive;
+  font-family: "Bodoni MT", Didot, "Didot LT STD", serif;
   font-size: 1.25rem;
 }
 

@@ -41,7 +41,6 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-family: 'Crimson Text', serif;
     font-size: 20px;
     line-height: 1.2;
   }
@@ -96,6 +95,7 @@ html {
 }
 .sidebar-nav-item {
   display: block;
+  font-family: 'Alike', serif;
   line-height: 1.5;
 }
 a.sidebar-nav-item:hover,

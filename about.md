@@ -5,9 +5,7 @@ title: About
 
 <p class="message">Pete was crowned Mr. WHS, the all-male beauty pageant of Whitney High School, despite his current unshaven and, quite frankly, sloppy appearance. During this time, he dated the Class President, who drove them to Prom in her father's Mazda Miata. Previously, he earned a one-day suspension for an incident involving a potato projectile device.</p>
 
-
 Hi it's Pete. Technically, I'm a photographer. You may remember me from such books as **ENERGY: Cocktails to Get You Up** or dot dot dot.
-
 
 ## Jekyll-ing
 

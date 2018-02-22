@@ -11,7 +11,7 @@ It'd be impossible to type this without arms, and especially the hands and finge
 
 It's a really tough question. The best answer I could come up with is that I'd like to keep my arms, but while developing the ability to _manipulate the quanta of subatomic energies surrounding my body to overcome gravity_ and lift myself to any height and distance - within the reasonable limits of my own stamina.
 
-I realize that's cheating the question; it would be the best of [both](https://en.wikipedia.org/wiki/General_relativity){:target="_blank"} [worlds](https://en.wikipedia.org/wiki/Quantum_mechanics){:target="_blank}. You can't have your cake and eat it too<sup>2</sup>.
+I realize that's cheating the question; it would be the best of [both](https://en.wikipedia.org/wiki/General_relativity){:target="_blank"} [worlds](https://en.wikipedia.org/wiki/Quantum_mechanics){:target="_blank"}. You can't have your cake and eat it too<sup>2</sup>.
 
 ![canada goose at leverett pond](/images/2018-0207-emerald-0265.jpg)
 

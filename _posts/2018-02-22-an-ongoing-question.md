@@ -13,8 +13,6 @@ It's a really tough question. The best answer I could come up with is that I'd l
 
 I realize that's cheating the question; it would be the best of [both](https://en.wikipedia.org/wiki/General_relativity){:target="_blank"} [worlds](https://en.wikipedia.org/wiki/Quantum_mechanics){:target="_blank"}. You can't have your cake and eat it too<sup>2</sup>.
 
-![canada goose at leverett pond](/images/2018-0207-emerald-0265.jpg)
-
 ### notes
 
 <sup>1</sup> This question has actually never come up.

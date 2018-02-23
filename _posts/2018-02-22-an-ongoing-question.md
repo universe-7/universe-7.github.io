@@ -5,7 +5,7 @@ title: An Ongoing Question
 
 The question comes up all the time: **_Would I trade my arms for wings_**<sup>1</sup>, if I could? 
 
-![sanderling at Breezy Point](/images/2018-0213-breezy-0618.jpg)
+![sanderling at Breezy Point](/images/2018-0213-breezy-0618-V.jpg)
 
 It'd be impossible to type this without arms, and especially the hands and fingers that accompany them. On the other hand, with (the right kind of) wings i'd have Flight - something I'm currently incapable of, and hard to truly imagine. 
 

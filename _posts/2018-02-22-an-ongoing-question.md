@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Ongoing Question
-tags: avian-AF
+tags: avian-AF physics
 ---
 
 The question comes up all the time: **_Would I trade my arms for wings_**<sup>[1](#notes)</sup>, if I could? 

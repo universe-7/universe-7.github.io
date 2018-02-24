@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Ongoing Question
+title: Natural Questions
 tags: avian-AF physics
 ---
 

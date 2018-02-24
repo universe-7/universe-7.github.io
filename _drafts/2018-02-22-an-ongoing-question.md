@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Ongoing Question
+tags: avian-AF
 ---
 
 The question comes up all the time: **_Would I trade my arms for wings_**<sup>1</sup>, if I could? 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title:
+title: posts by category
 ---
 
-## posts by tag
+## •
 
 {% include tags.html %}

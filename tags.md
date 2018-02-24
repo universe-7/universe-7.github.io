@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tags
+title: posts by tag
 ---
 
 {% include tags.html %}

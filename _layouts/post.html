@@ -18,6 +18,17 @@ layout: default
   </span>
 
   {{ content }}
+
+    <span class="post-tags" style="white-space: nowrap">
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}">
+      {{ tag_name }}
+      &nbsp;
+    </a>
+  {% endfor %}
+  </span>
+  
 </div>
 
 <div class="related">

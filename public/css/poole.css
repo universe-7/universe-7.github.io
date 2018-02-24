@@ -358,7 +358,6 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: .01rem;
   margin-bottom: 1rem;
-  background-color: #f9f9f9;
   color: #8B3232;
 }
 

@@ -4,15 +4,15 @@ title: An Ongoing Question
 tags: avian-AF
 ---
 
-The question comes up all the time: **_Would I trade my arms for wings_**<sup>1</sup>, if I could? 
+The question comes up all the time: **_Would I trade my arms for wings_**<sup>[1](#notes)</sup>, if I could? 
 
 ![sanderling at Breezy Point](/images/2018-0213-breezy-0618-V.jpg)
 
 It'd be impossible to type this without arms, and especially the hands and fingers that accompany them. On the other hand, with (the right kind of) wings i'd have Flight - something I'm currently incapable of, and hard to truly imagine. 
 
-It's a really tough question. The best answer I could come up with is that I'd like to keep my arms, but while developing the ability to _manipulate the quanta of subatomic energies surrounding my body to overcome gravity_ and lift myself to any height and distance - within the reasonable limits of my own stamina.
+It's a really tough question. The best answer I could come up with is that I'd like to keep my arms, but while developing the ability to **_manipulate the quanta of subatomic energies surrounding my body to overcome gravity_** and lift myself to any height and distance - within the reasonable limits of my own stamina.
 
-I realize that's cheating the question; it would be the best of [both](https://en.wikipedia.org/wiki/General_relativity){:target="_blank"} [worlds](https://en.wikipedia.org/wiki/Quantum_mechanics){:target="_blank"}. You can't have your cake and eat it too<sup>2</sup>.
+I realize that's cheating the question; it would be the best of [both](https://en.wikipedia.org/wiki/General_relativity){:target="_blank"} [worlds](https://en.wikipedia.org/wiki/Quantum_mechanics){:target="_blank"}. You can't have your cake and eat it too<sup>[2](#notes)</sup>.
 
 ### notes
 

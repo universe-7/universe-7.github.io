@@ -356,7 +356,7 @@ tbody tr:nth-child(odd) th {
 
 .post-tags {
   display: block;
-  margin-top: .25rem;
+  margin-top: .01rem;
   margin-bottom:1rem;
   color: #8B3232;
 }

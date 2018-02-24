@@ -358,6 +358,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: .01rem;
   margin-bottom:1rem;
+  font-variant:small-caps;
   color: #8B3232;
 }
 

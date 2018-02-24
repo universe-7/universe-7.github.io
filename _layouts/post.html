@@ -10,7 +10,7 @@ layout: default
   <span class="post-tags" style="white-space: nowrap">#:
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}" background-color="#f9f9f9">
+    <a href="/tag/{{ tag_name }}">
       {{ tag_name }}
     </a>
     &nbsp;

@@ -7,28 +7,28 @@ layout: default
 
   <span class="post-date">{{ page.date | date_to_string }}</span>
 
-  <span class="post-tags" style="white-space: nowrap">
+  <span class="post-tags" style="white-space: nowrap">tags:
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}">
       {{ tag_name }}
-      &nbsp;
     </a>
+    &nbsp;
   {% endfor %}
   </span>
 
   {{ content }}
 
-    <span class="post-tags" style="white-space: nowrap">
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
+  <span class="post-tags" style="white-space: nowrap">tags:
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}">
       {{ tag_name }}
       &nbsp;
     </a>
   {% endfor %}
   </span>
-  
+
 </div>
 
 <div class="related">

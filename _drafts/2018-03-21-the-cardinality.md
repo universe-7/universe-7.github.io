@@ -1,7 +1,7 @@
 ---
 layout: post
-title: cardinality
-tags: avian-AF
+title: raw notes: the cardinality
+tags: avian-AF raw-notes
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: the cocktails aren't free
-tags: avian-AF
+title: raw notes: the cocktails aren't free
+tags: avian-AF raw-notes
 ---
 
 # the cocktails aren't free 

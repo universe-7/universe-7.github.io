@@ -1,4 +1,8 @@
-# the cardinality
+layout: post
+title: cardinality
+tags: avian-AF
+---
+
 
 _03-21-2018_ Forest Park Queens NYC
 

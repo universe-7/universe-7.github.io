@@ -12,8 +12,7 @@ Kestrel hopping from Floyd Bennett Field to Salt Marsh Nature Trail. Saw that Ke
 
 It wasn't an incredibly hot day but the sun was shining down hard, creating heat shimmer low to the ground.
 
-1. Floyd Bennett Field
-2. Salt Marsh Nature Trail
+<!--break-->
 
 ## conditions
 
